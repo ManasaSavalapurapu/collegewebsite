@@ -1,16 +1,38 @@
 body {
-    font-family: Arial;
+    font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    background: #f4f4f4;
 }
 
 header {
-    background: #007bff;
+    background: #004aad;
     color: white;
-    padding: 20px;
     text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background: #222;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
 }
 
 section {
     padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 8px;
+}
+
+footer {
+    background: #004aad;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
