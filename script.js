@@ -1,1 +1,1 @@
-console.log("ABC College Website Loaded Successfully");
+console.log("College Website Loaded Success");
