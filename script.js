@@ -1,1 +1,1 @@
-console.log("College Website Loaded Success");
+console.log("FutureTech College Website Loaded Successfully");
